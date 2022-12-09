@@ -47,6 +47,7 @@ Step.6-
 Adding logs to test cases
 Adding customlogger.py file  under utilities package
 Add logs to login test case
+
 Step.7- 
 Run tests on desired browser and parallel
 
