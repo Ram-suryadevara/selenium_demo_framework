@@ -49,15 +49,17 @@ Adding customlogger.py file  under utilities package
 Add logs to login test case
 Step.7- 
 Run tests on desired browser and parallel
+
 Step.8- 
 Generate pytest HTML reports
+
 Step.9-
 Adding new test cases
-
 email id is unique. Generate random test data. 
 2 types - static and dynamic data
 static - prepare before and create excel file and hardcode it. 
 dynamic - generate different mailid for different customer. 
+
 Step.10- 
 Grouping tests
 Adding markers to every test method
