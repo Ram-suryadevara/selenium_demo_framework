@@ -1,11 +1,11 @@
 # selenium_demo_framework
-test cases for the nopcommerce website. 
+Test cases for the nopcommerce website. 
 1.login test case and home page title test case.
 2. adding the customer is second testcase. 
 
 Implemented the hybrid framework.
 
-followed some steps to create the framework. 
+Followed some steps to create the framework. 
 
 Step -1
 Creating a project and installing required plugins/packages
