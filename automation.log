@@ -1,0 +1,16 @@
+09/12/2022 11:26:42 AM: INFO: ******** test_homepage *******
+09/12/2022 11:26:42 AM: INFO: ******** Verifying home page title ********
+09/12/2022 11:26:42 AM: INFO: ****Opening URL****
+09/12/2022 11:27:14 AM: ERROR: **** Home page title test failed****
+09/12/2022 11:27:15 AM: INFO: ****Started Login Test****
+09/12/2022 11:28:15 AM: INFO: ******** test_homepage *******
+09/12/2022 11:28:15 AM: INFO: ******** Verifying home page title ********
+09/12/2022 11:28:15 AM: INFO: ****Opening URL****
+09/12/2022 11:28:34 AM: INFO: **** Home page title test passed ****
+09/12/2022 11:28:36 AM: INFO: ****Started Login Test****
+09/12/2022 11:30:30 AM: INFO: ******** test_homepage *******
+09/12/2022 11:30:30 AM: INFO: ******** Verifying home page title ********
+09/12/2022 11:30:30 AM: INFO: ****Opening URL****
+09/12/2022 11:30:33 AM: INFO: **** Home page title test passed ****
+09/12/2022 11:30:35 AM: INFO: ****Started Login Test****
+09/12/2022 11:30:43 AM: INFO: ****Login test passed ****

@@ -1,0 +1,136 @@
+12/06/2022 07:06:10 PM: INFO: ******** TestLogin *******
+12/06/2022 07:06:10 PM: INFO: ******** Verifying home page title ********
+12/06/2022 07:06:10 PM: INFO: ****Opening URL****
+12/06/2022 07:06:14 PM: INFO: **** home page title test passed ****
+12/06/2022 07:06:31 PM: INFO: ****Started Login Test****
+12/06/2022 07:06:39 PM: INFO: ****Login test passed ****
+12/06/2022 07:07:56 PM: INFO: ******** TestLogin *******
+12/06/2022 07:07:56 PM: INFO: ******** Verifying home page title ********
+12/06/2022 07:07:56 PM: INFO: ****Opening URL****
+12/06/2022 07:08:01 PM: INFO: **** home page title test passed ****
+12/06/2022 07:08:07 PM: INFO: ****Started Login Test****
+12/06/2022 07:08:18 PM: INFO: ****Login test passed ****
+12/06/2022 07:15:58 PM: INFO: ******** TestLogin *******
+12/06/2022 07:15:58 PM: INFO: ******** Verifying home page title ********
+12/06/2022 07:15:58 PM: INFO: ****Opening URL****
+12/06/2022 07:16:02 PM: INFO: **** home page title test passed ****
+12/06/2022 07:16:04 PM: INFO: ****Started Login Test****
+12/06/2022 07:16:10 PM: INFO: ****Login test passed ****
+12/06/2022 07:40:43 PM: INFO: ****Started Login Test****
+12/06/2022 07:40:43 PM: INFO: ******** TestLogin *******
+12/06/2022 07:40:43 PM: INFO: ******** Verifying home page title ********
+12/06/2022 07:40:43 PM: INFO: ****Opening URL****
+12/06/2022 07:40:48 PM: INFO: **** home page title test passed ****
+12/06/2022 07:40:50 PM: INFO: ****Login test passed ****
+12/06/2022 07:41:01 PM: INFO: ****Started Login Test****
+12/06/2022 07:41:02 PM: INFO: ******** TestLogin *******
+12/06/2022 07:41:02 PM: INFO: ******** Verifying home page title ********
+12/06/2022 07:41:02 PM: INFO: ****Opening URL****
+12/06/2022 07:41:05 PM: INFO: **** home page title test passed ****
+12/06/2022 07:41:09 PM: INFO: ****Login test passed ****
+12/06/2022 08:24:53 PM: INFO: ****Started Login Test****
+12/06/2022 08:24:53 PM: INFO: ******** TestLogin *******
+12/06/2022 08:24:53 PM: INFO: ******** Verifying home page title ********
+12/06/2022 08:24:53 PM: INFO: ****Opening URL****
+12/06/2022 08:24:56 PM: INFO: **** home page title test passed ****
+12/06/2022 08:25:06 PM: INFO: ****Login test passed ****
+12/07/2022 05:44:28 PM: INFO: **************TestAddCustomer*************
+12/07/2022 05:44:33 PM: INFO: *********************Login Succesful**************
+12/07/2022 05:44:33 PM: INFO: ************starting Add Customer Test*********
+12/07/2022 05:44:42 PM: INFO: ***************saving customer info**********
+12/07/2022 05:44:42 PM: INFO: ***********add customer validation************
+12/07/2022 05:44:43 PM: INFO: ************test passed-add customer**********
+12/07/2022 05:44:43 PM: INFO: ************ending add_customer test*****
+12/07/2022 05:47:24 PM: INFO: **************TestAddCustomer*************
+12/07/2022 05:47:33 PM: INFO: *********************Login Succesful**************
+12/07/2022 05:47:33 PM: INFO: ************starting Add Customer Test*********
+12/07/2022 05:47:38 PM: INFO: ***************saving customer info**********
+12/07/2022 05:47:38 PM: INFO: ***********add customer validation************
+12/07/2022 05:47:39 PM: ERROR: *********test failed-add customer*****
+12/08/2022 11:38:00 AM: INFO: **************TestAddCustomer*************
+12/08/2022 11:38:06 AM: INFO: *********************Login Succesful**************
+12/08/2022 11:38:06 AM: INFO: ************starting Add Customer Test*********
+12/08/2022 11:38:12 AM: INFO: ***************saving customer info**********
+12/08/2022 11:38:12 AM: INFO: ***********add customer validation************
+12/08/2022 11:38:12 AM: INFO: ************test passed-add customer**********
+12/08/2022 11:38:13 AM: INFO: ************ending add_customer test*****
+12/08/2022 11:40:53 AM: INFO: **************TestAddCustomer*************
+12/08/2022 11:41:03 AM: INFO: *********************Login Succesful**************
+12/08/2022 11:41:03 AM: INFO: ************starting Add Customer Test*********
+12/08/2022 11:41:09 AM: INFO: ***************saving customer info**********
+12/08/2022 11:41:09 AM: INFO: ***********add customer validation************
+12/08/2022 11:41:09 AM: ERROR: *********test failed-add customer*****
+12/08/2022 11:42:29 AM: INFO: **************TestAddCustomer*************
+12/08/2022 11:42:34 AM: INFO: *********************Login Succesful**************
+12/08/2022 11:42:34 AM: INFO: ************starting Add Customer Test*********
+12/08/2022 11:42:40 AM: INFO: ***************saving customer info**********
+12/08/2022 11:42:40 AM: INFO: ***********add customer validation************
+12/08/2022 11:42:40 AM: INFO: ************test passed-add customer**********
+12/08/2022 11:42:41 AM: INFO: ************ending add_customer test*****
+12/08/2022 11:44:41 AM: INFO: **************TestAddCustomer*************
+12/08/2022 11:44:47 AM: INFO: *********************Login Succesful**************
+12/08/2022 11:44:47 AM: INFO: ************starting Add Customer Test*********
+12/08/2022 11:44:54 AM: INFO: ***************saving customer info**********
+12/08/2022 11:44:54 AM: INFO: ***********add customer validation************
+12/08/2022 11:44:54 AM: INFO: ************test passed-add customer**********
+12/08/2022 11:44:55 AM: INFO: ************ending add_customer test*****
+12/08/2022 11:45:11 AM: INFO: **************TestAddCustomer*************
+12/08/2022 11:45:21 AM: INFO: *********************Login Succesful**************
+12/08/2022 11:45:21 AM: INFO: ************starting Add Customer Test*********
+12/08/2022 11:45:26 AM: INFO: ***************saving customer info**********
+12/08/2022 11:45:26 AM: INFO: ***********add customer validation************
+12/08/2022 11:45:27 AM: ERROR: *********test failed-add customer*****
+12/08/2022 12:19:21 PM: INFO: **************TestAddCustomer*************
+12/08/2022 12:19:26 PM: INFO: *********************Login Succesful**************
+12/08/2022 12:19:26 PM: INFO: ************starting Add Customer Test*********
+12/08/2022 12:19:32 PM: INFO: ***************saving customer info**********
+12/08/2022 12:19:32 PM: INFO: ***********add customer validation************
+12/08/2022 12:19:32 PM: INFO: ************test passed-add customer**********
+12/08/2022 12:19:33 PM: INFO: ************ending add_customer test*****
+12/08/2022 12:19:34 PM: INFO: ****Started Login Test****
+12/08/2022 12:19:42 PM: INFO: ****Login test passed ****
+12/08/2022 02:30:44 PM: INFO: ******** TestLogin *******
+12/08/2022 02:30:44 PM: INFO: ******** Verifying home page title ********
+12/08/2022 02:30:44 PM: INFO: ****Opening URL****
+12/08/2022 02:30:48 PM: ERROR: **** Home page title test is failed****
+12/08/2022 02:30:51 PM: INFO: ****Started Login Test****
+12/08/2022 02:30:59 PM: INFO: ****Login test passed ****
+12/08/2022 02:36:04 PM: INFO: ******** TestLogin *******
+12/08/2022 02:36:04 PM: INFO: ******** Verifying home page title ********
+12/08/2022 02:36:04 PM: INFO: ****Opening URL****
+12/08/2022 02:36:09 PM: INFO: **** home page title test passed ****
+12/08/2022 02:36:26 PM: INFO: ****Started Login Test****
+12/08/2022 02:36:33 PM: INFO: ****Login test passed ****
+12/08/2022 03:17:49 PM: INFO: **************TestAddCustomer*************
+12/08/2022 03:17:56 PM: INFO: *********************Login Succesful**************
+12/08/2022 03:17:56 PM: INFO: ************starting Add Customer Test*********
+12/08/2022 03:18:00 PM: INFO: ***************saving customer info**********
+12/08/2022 03:18:00 PM: INFO: ***********add customer validation************
+12/08/2022 03:18:00 PM: INFO: ************test passed-add customer**********
+12/08/2022 03:18:01 PM: INFO: ************ending add_customer test*****
+12/08/2022 03:23:39 PM: INFO: ******** TestLogin *******
+12/08/2022 03:23:39 PM: INFO: ******** Verifying home page title ********
+12/08/2022 03:23:39 PM: INFO: ****Opening URL****
+12/08/2022 03:23:41 PM: INFO: **** home page title test passed ****
+12/08/2022 03:23:59 PM: INFO: ****Started Login Test****
+12/08/2022 03:24:07 PM: INFO: ****Login test passed ****
+12/08/2022 03:24:30 PM: INFO: ******** TestLogin *******
+12/08/2022 03:24:30 PM: INFO: ******** Verifying home page title ********
+12/08/2022 03:24:30 PM: INFO: ****Opening URL****
+12/08/2022 03:24:33 PM: INFO: **** home page title test passed ****
+12/08/2022 03:24:35 PM: INFO: ****Started Login Test****
+12/08/2022 03:24:43 PM: INFO: ****Login test passed ****
+12/08/2022 03:27:16 PM: INFO: **************TestAddCustomer*************
+12/08/2022 03:27:23 PM: INFO: *********************Login Succesful**************
+12/08/2022 03:27:23 PM: INFO: ************starting Add Customer Test*********
+12/08/2022 03:27:27 PM: INFO: ***************saving customer info**********
+12/08/2022 03:27:27 PM: INFO: ***********add customer validation************
+12/08/2022 03:27:27 PM: INFO: ************test passed-add customer**********
+12/08/2022 03:27:27 PM: INFO: ************ending add_customer test*****
+12/08/2022 03:33:30 PM: INFO: **************TestAddCustomer*************
+12/08/2022 03:33:36 PM: INFO: *********************Login Succesful**************
+12/08/2022 03:33:36 PM: INFO: ************starting Add Customer Test*********
+12/08/2022 03:33:41 PM: INFO: ***************saving customer info**********
+12/08/2022 03:33:41 PM: INFO: ***********add customer validation************
+12/08/2022 03:33:41 PM: INFO: ************test passed-add customer**********
+12/08/2022 03:33:41 PM: INFO: ************ending add_customer test*****
