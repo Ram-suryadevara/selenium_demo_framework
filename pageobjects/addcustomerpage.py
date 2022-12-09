@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 class AddCustomer:
     """
     Add customer Page details - Email, Password,first_name,Last_name, gender,
-    DOB, company name, Admin content box
+    DOB, company name, Admin content box...
     """
     LINK_CUSTOMERS_MENU_XPATH = (
         By.XPATH, "//a[@href='#']//p[contains(text(),'Customers')]")
